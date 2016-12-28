@@ -1,0 +1,15 @@
+{
+  "name": "nba.js-example",
+  "version": "1.0.0",
+  "description": "example of a node server for returning nba.js values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Conklin",
+  "license": "none",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nba.js": "^0.3.2"
+  }
+}
